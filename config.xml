@@ -4,7 +4,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.radio.narayanganj"
-        version   = "1.0.0">
+        versionCode = "27" 
+		version   = "1.0.0">
 
     <name>Radio Narayanganj</name>
 
